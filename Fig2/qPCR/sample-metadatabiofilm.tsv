@@ -1,0 +1,51 @@
+"Station","Date","time","Sample-name","origin","environment","origin","Legionella-count","Na","Temp","TP"
+"Fuliya5-biofilm","Sep17","t1","Fuliya5-biofilm-Sep17","Fuliya","Biofilm","Fuliya-biofilm",2237.67075,17,29,22.6
+"Fuliya5-biofilm","Jan18","t2","Fuliya5-biofilm-Jan18","Fuliya","Biofilm","Fuliya-biofilm",8210,17,28,14
+"Fuliya5-biofilm","Jun18","t3","Fuliya5-biofilm-Jun18","Fuliya","Biofilm","Fuliya-biofilm",40.2,18,28,9.2
+"Fuliya5-biofilm","Oct18","t4","Fuliya5-biofilm-Oct18","Fuliya","Biofilm","Fuliya-biofilm",4805.4285,16,27,15
+"Fuliya5-biofilm","Jan19","t5","Fuliya5-biofilm-Jan19","Fuliya","Biofilm","Fuliya-biofilm",13060.6225,19,27.5,10.4
+"Fuliya4-biofilm","Sep17","t1","Fuliya4-biofilm-Sep17","Fuliya","Biofilm","Fuliya-biofilm",12308.05325,19,30,24.7
+"Fuliya4-biofilm","Jan18","t2","Fuliya4-biofilm-Jan18","Fuliya","Biofilm","Fuliya-biofilm",5305,19,26,11.6
+"Fuliya4-biofilm","Jun18","t3","Fuliya4-biofilm-Jun18","Fuliya","Biofilm","Fuliya-biofilm",390,20,28,11.4
+"Fuliya4-biofilm","Oct18","t4","Fuliya4-biofilm-Oct18","Fuliya","Biofilm","Fuliya-biofilm",11967.7153333333,18,27,151.7
+"Fuliya4-biofilm","Jan19","t5","Fuliya4-biofilm-Jan19","Fuliya","Biofilm","Fuliya-biofilm",22879.469,21,23,93.5
+"Fuliya3-biofilm","Sep17","t1","Fuliya3-biofilm-Sep17","Fuliya","Biofilm","Fuliya-biofilm",16229.693,31,31,19.7
+"Fuliya3-biofilm","Jan18","t2","Fuliya3-biofilm-Jan18","Fuliya","Biofilm","Fuliya-biofilm",3340,19,27,8.5
+"Fuliya3-biofilm","Jun18","t3","Fuliya3-biofilm-Jun18","Fuliya","Biofilm","Fuliya-biofilm",584.25,22,26,8.8
+"Fuliya3-biofilm","Oct18","t4","Fuliya3-biofilm-Oct18","Fuliya","Biofilm","Fuliya-biofilm",527.56225,28,30,16.6
+"Fuliya3-biofilm","Jan19","t5","Fuliya3-biofilm-Jan19","Fuliya","Biofilm","Fuliya-biofilm",16696.04875,33,29,10.3
+"Fuliya2-biofilm","Sep17","t1","Fuliya2-biofilm-Sep17","Fuliya","Biofilm","Fuliya-biofilm",244.382666666667,21,30,20.6
+"Fuliya2-biofilm","Jan18","t2","Fuliya2-biofilm-Jan18","Fuliya","Biofilm","Fuliya-biofilm",2063.33333333333,24,29,13.5
+"Fuliya2-biofilm","Jun18","t3","Fuliya2-biofilm-Jun18","Fuliya","Biofilm","Fuliya-biofilm",16733.3333333333,25,30,12
+"Fuliya2-biofilm","Oct18","t4","Fuliya2-biofilm-Oct18","Fuliya","Biofilm","Fuliya-biofilm",1761.361,21,29,9
+"Fuliya2-biofilm","Jan19","t5","Fuliya2-biofilm-Jan19","Fuliya","Biofilm","Fuliya-biofilm",,,,
+"Fuliya1-biofilm","Sep17","t1","Fuliya1-biofilm-Sep17","Fuliya","Biofilm","Fuliya-biofilm",2076.71575,17,29,21.7
+"Fuliya1-biofilm","Jan18","t2","Fuliya1-biofilm-Jan18","Fuliya","Biofilm","Fuliya-biofilm",1907.5,17,28,12.5
+"Fuliya1-biofilm","Jun18","t3","Fuliya1-biofilm-Jun18","Fuliya","Biofilm","Fuliya-biofilm",1624.25,19,28,14.3
+"Fuliya1-biofilm","Oct18","t4","Fuliya1-biofilm-Oct18","Fuliya","Biofilm","Fuliya-biofilm",669.54525,17,27.5,10.5
+"Fuliya1-biofilm","Jan19","t5","Fuliya1-biofilm-Jan19","Fuliya","Biofilm","Fuliya-biofilm",32726.61725,19,28,9.8
+"En Sheva-biofilm","Sep17","t1","En Sheva-biofilm-Sep17","Tabgha","Biofilm","Tabgha-biofilm",436.43675,24,25,19.8
+"En Sheva-biofilm","Jan18","t2","En Sheva-biofilm-Jan18","Tabgha","Biofilm","Tabgha-biofilm",2790,7,23,54.2
+"En Sheva-biofilm","Jun18","t3","En Sheva-biofilm-Jun18","Tabgha","Biofilm","Tabgha-biofilm",151.375,21,24,21.5
+"En Sheva-biofilm","Oct18","t4","En Sheva-biofilm-Oct18","Tabgha","Biofilm","Tabgha-biofilm",1874.50625,25,25,16
+"En Sheva-biofilm","Jan19","t5","En Sheva-biofilm-Jan19","Tabgha","Biofilm","Tabgha-biofilm",11970.93075,7,23,45.5
+"Maayan1-biofilm","Sep17","t1","Maayan1-biofilm-Sep17","Tabgha","Biofilm","Tabgha-biofilm",8193.26825,25,29,17
+"Maayan1-biofilm","Jan18","t2","Maayan1-biofilm-Jan18","Tabgha","Biofilm","Tabgha-biofilm",37450,16,23,20.6
+"Maayan1-biofilm","Jun18","t3","Maayan1-biofilm-Jun18","Tabgha","Biofilm","Tabgha-biofilm",2680,21,24,36
+"Maayan1-biofilm","Oct18","t4","Maayan1-biofilm-Oct18","Tabgha","Biofilm","Tabgha-biofilm",20229.36675,25,25,26.9
+"Maayan1-biofilm","Jan19","t5","Maayan1-biofilm-Jan19","Tabgha","Biofilm","Tabgha-biofilm",28089.70775,8,23.5,33.4
+"Gesher-hana-biofilm","Sep17","t1","Gesher-hana-biofilm-Sep17","Tabgha","Biofilm","Tabgha-biofilm",5301.328,24,26,18.3
+"Gesher-hana-biofilm","Jan18","t2","Gesher-hana-biofilm-Jan18","Tabgha","Biofilm","Tabgha-biofilm",5330,18,23,13.4
+"Gesher-hana-biofilm","Jun18","t3","Gesher-hana-biofilm-Jun18","Tabgha","Biofilm","Tabgha-biofilm",306,21,25,24.6
+"Gesher-hana-biofilm","Oct18","t4","Gesher-hana-biofilm-Oct18","Tabgha","Biofilm","Tabgha-biofilm",1844.23225,25,25,41.5
+"Gesher-hana-biofilm","Jan19","t5","Gesher-hana-biofilm-Jan19","Tabgha","Biofilm","Tabgha-biofilm",22544.912,7,22,43.2
+"Tiberias-head-biofilm","Sep17","t1","Tiberias-head-biofilm-Sep17","Tiberias Hot Springs","Biofilm","Tiberias Hot Springs-biofilm",79335.201,291,59,24.6
+"Tiberias-head-biofilm","Jan18","t2","Tiberias-head-biofilm-Jan18","Tiberias Hot Springs","Biofilm","Tiberias Hot Springs-biofilm",123550,273,56,8.7
+"Tiberias-head-biofilm","Jun18","t3","Tiberias-head-biofilm-Jun18","Tiberias Hot Springs","Biofilm","Tiberias Hot Springs-biofilm",24466.6666666667,283,59,21.7
+"Tiberias-head-biofilm","Oct18","t4","Tiberias-head-biofilm-Oct18","Tiberias Hot Springs","Biofilm","Tiberias Hot Springs-biofilm",13228.8795,291,58.5,12.6
+"Tiberias-head-biofilm","Jan19","t5","Tiberias-head-biofilm-Jan19","Tiberias Hot Springs","Biofilm","Tiberias Hot Springs-biofilm",93604.4585,286,58,7
+"Tiberias-pool-biofilm","Sep17","t1","Tiberias-pool-biofilm-Sep17","Tiberias Hot Springs","Biofilm","Tiberias Hot Springs-biofilm",8033.6225,294,46,20.6
+"Tiberias-pool-biofilm","Jan18","t2","Tiberias-pool-biofilm-Jan18","Tiberias Hot Springs","Biofilm","Tiberias Hot Springs-biofilm",6220,286,40,16
+"Tiberias-pool-biofilm","Jun18","t3","Tiberias-pool-biofilm-Jun18","Tiberias Hot Springs","Biofilm","Tiberias Hot Springs-biofilm",20325,293,45,22.7
+"Tiberias-pool-biofilm","Oct18","t4","Tiberias-pool-biofilm-Oct18","Tiberias Hot Springs","Biofilm","Tiberias Hot Springs-biofilm",17215.668,305,44,16.3
+"Tiberias-pool-biofilm","Jan19","t5","Tiberias-pool-biofilm-Jan19","Tiberias Hot Springs","Biofilm","Tiberias Hot Springs-biofilm",278586.057,304,39,8.7

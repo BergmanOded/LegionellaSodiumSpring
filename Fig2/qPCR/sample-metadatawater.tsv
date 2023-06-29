@@ -1,0 +1,65 @@
+"Station","Date","time","Sample-name","origin","environment","origin","Legionella-count","Na","Temp","TP"
+"Fuliya5-water","Sep17","t1","Fuliya5-water-Sep17","Fuliya","Water","Fuliya-water",82,17.2,29,22.6
+"Fuliya5-water","Jan18","t2","Fuliya5-water-Jan18","Fuliya","Water","Fuliya-water",1263,17.1,28,14
+"Fuliya5-water","Jun18","t3","Fuliya5-water-Jun18","Fuliya","Water","Fuliya-water",13,17.8,28,9.2
+"Fuliya5-water","Oct18","t4","Fuliya5-water-Oct18","Fuliya","Water","Fuliya-water",4266,15.6,27,15
+"Fuliya5-water","Jan19","t5","Fuliya5-water-Jan19","Fuliya","Water","Fuliya-water",215,19.1,27.5,10.4
+"Fuliya4-water","Sep17","t1","Fuliya4-water-Sep17","Fuliya","Water","Fuliya-water",4153,19.1,30,24.7
+"Fuliya4-water","Jan18","t2","Fuliya4-water-Jan18","Fuliya","Water","Fuliya-water",5810,18.9,26,11.6
+"Fuliya4-water","Jun18","t3","Fuliya4-water-Jun18","Fuliya","Water","Fuliya-water",1237,19.9,28,11.4
+"Fuliya4-water","Oct18","t4","Fuliya4-water-Oct18","Fuliya","Water","Fuliya-water",12984,18.3,27,151.7
+"Fuliya4-water","Jan19","t5","Fuliya4-water-Jan19","Fuliya","Water","Fuliya-water",5154,21.4,23,93.5
+"Fuliya3-water","Sep17","t1","Fuliya3-water-Sep17","Fuliya","Water","Fuliya-water",632,31,31,19.7
+"Fuliya3-water","Jan18","t2","Fuliya3-water-Jan18","Fuliya","Water","Fuliya-water",3067,18.6,27,8.5
+"Fuliya3-water","Jun18","t3","Fuliya3-water-Jun18","Fuliya","Water","Fuliya-water",410,21.8,26,8.8
+"Fuliya3-water","Oct18","t4","Fuliya3-water-Oct18","Fuliya","Water","Fuliya-water",3844,28.3,30,16.6
+"Fuliya3-water","Jan19","t5","Fuliya3-water-Jan19","Fuliya","Water","Fuliya-water",210,32.9,29,10.3
+"Fuliya2-water","Sep17","t1","Fuliya2-water-Sep17","Fuliya","Water","Fuliya-water",2620,20.9,30,20.6
+"Fuliya2-water","Jan18","t2","Fuliya2-water-Jan18","Fuliya","Water","Fuliya-water",3127,24,29,13.5
+"Fuliya2-water","Jun18","t3","Fuliya2-water-Jun18","Fuliya","Water","Fuliya-water",1958,24.6,30,12
+"Fuliya2-water","Oct18","t4","Fuliya2-water-Oct18","Fuliya","Water","Fuliya-water",3203,21.3,29,9
+"Fuliya1-water","Sep17","t1","Fuliya1-water-Sep17","Fuliya","Water","Fuliya-water",387,17.2,29,21.7
+"Fuliya1-water","Jan18","t2","Fuliya1-water-Jan18","Fuliya","Water","Fuliya-water",345,17.3,28,12.5
+"Fuliya1-water","Jun18","t3","Fuliya1-water-Jun18","Fuliya","Water","Fuliya-water",48,18.8,28,14.3
+"Fuliya1-water","Oct18","t4","Fuliya1-water-Oct18","Fuliya","Water","Fuliya-water",171,16.7,27.5,10.5
+"Fuliya1-water","Jan19","t5","Fuliya1-water-Jan19","Fuliya","Water","Fuliya-water",185,19.3,28,9.8
+"En Sheva-water","Sep17","t1","En Sheva-water-Sep17","Tabgha","Water","Tabgha-water",1800,26.6,25,19.8
+"En Sheva-water","Jan18","t2","En Sheva-water-Jan18","Tabgha","Water","Tabgha-water",9877,8.1,23,54.2
+"En Sheva-water","Jun18","t3","En Sheva-water-Jun18","Tabgha","Water","Tabgha-water",503,22.7,24,21.5
+"En Sheva-water","Oct18","t4","En Sheva-water-Oct18","Tabgha","Water","Tabgha-water",6776,26.9,25,16
+"En Sheva-water","Jan19","t5","En Sheva-water-Jan19","Tabgha","Water","Tabgha-water",8549,8,23,45.5
+"Nur-water","Sep17","t1","Nur-water-Sep17","Tabgha","Water","Tabgha-water",242,42,26,17.4
+"Nur-water","Jan18","t2","Nur-water-Jan18","Tabgha","Water","Tabgha-water",6610,30.1,26,18.5
+"Nur-water","Jun18","t3","Nur-water-Jun18","Tabgha","Water","Tabgha-water",18400,40.4,27,19.9
+"Nur-water","Oct18","t4","Nur-water-Oct18","Tabgha","Water","Tabgha-water",6980,50.8,27,20
+"Nur-water","Jan19","t5","Nur-water-Jan19","Tabgha","Water","Tabgha-water",3945,43.2,27,25.8
+"Maayan1-water","Sep17","t1","Maayan1-water-Sep17","Tabgha","Water","Tabgha-water",3390,27.1,29,17
+"Maayan1-water","Jan18","t2","Maayan1-water-Jan18","Tabgha","Water","Tabgha-water",5925,18,23,20.6
+"Maayan1-water","Jun18","t3","Maayan1-water-Jun18","Tabgha","Water","Tabgha-water",3670,23.2,24,36
+"Maayan1-water","Oct18","t4","Maayan1-water-Oct18","Tabgha","Water","Tabgha-water",16872,27.8,25,26.9
+"Maayan1-water","Jan19","t5","Maayan1-water-Jan19","Tabgha","Water","Tabgha-water",10905,8.9,23.5,33.4
+"Gesher-hana-water","Sep17","t1","Gesher-hana-water-Sep17","Tabgha","Water","Tabgha-water",3865,26.7,26,18.3
+"Gesher-hana-water","Jan18","t2","Gesher-hana-water-Jan18","Tabgha","Water","Tabgha-water",6723,19.7,23,13.4
+"Gesher-hana-water","Jun18","t3","Gesher-hana-water-Jun18","Tabgha","Water","Tabgha-water",3033,22.8,25,24.6
+"Gesher-hana-water","Oct18","t4","Gesher-hana-water-Oct18","Tabgha","Water","Tabgha-water",24352,27.3,25,41.5
+"Gesher-hana-water","Jan19","t5","Gesher-hana-water-Jan19","Tabgha","Water","Tabgha-water",4948,8.1,22,43.2
+"Tiberias-pump-water","Sep17","t1","Tiberias-pump-water-Sep17","Tiberias Hot Springs","Water","Tiberias Hot Springs-water",123667,356.3,51,27.9
+"Tiberias-pump-water","Jan18","t2","Tiberias-pump-water-Jan18","Tiberias Hot Springs","Water","Tiberias Hot Springs-water",846333,282.2,39,60.7
+"Tiberias-pump-water","Jun18","t3","Tiberias-pump-water-Jun18","Tiberias Hot Springs","Water","Tiberias Hot Springs-water",371500,290,42,20.6
+"Tiberias-pump-water","Oct18","t4","Tiberias-pump-water-Oct18","Tiberias Hot Springs","Water","Tiberias Hot Springs-water",255123,332.2,49,30.6
+"Tiberias-pump-water","Jan19","t5","Tiberias-pump-water-Jan19","Tiberias Hot Springs","Water","Tiberias Hot Springs-water",792,359.6,43.5,24.8
+"Tiberias-pool-water","Sep17","t1","Tiberias-pool-water-Sep17","Tiberias Hot Springs","Water","Tiberias Hot Springs-water",67200,378.3,46,20.6
+"Tiberias-pool-water","Jan18","t2","Tiberias-pool-water-Jan18","Tiberias Hot Springs","Water","Tiberias Hot Springs-water",41100,368.2,40,16
+"Tiberias-pool-water","Jun18","t3","Tiberias-pool-water-Jun18","Tiberias Hot Springs","Water","Tiberias Hot Springs-water",25575,376.8,45,22.7
+"Tiberias-pool-water","Oct18","t4","Tiberias-pool-water-Oct18","Tiberias Hot Springs","Water","Tiberias Hot Springs-water",69404,392.2,44,16.3
+"Tiberias-pool-water","Jan19","t5","Tiberias-pool-water-Jan19","Tiberias Hot Springs","Water","Tiberias Hot Springs-water",158026,391.1,39,8.7
+"Haon-Borehole-drill-water","Sep17","t1","Haon-Borehole-drill-water-Sep17","Haon-Borehole","Water","Haon-Borehole-water",73842,92.4,27,98.3
+"Haon-Borehole-drill-water","Jan18","t2","Haon-Borehole-drill-water-Jan18","Haon-Borehole","Water","Haon-Borehole-water",22800,87.8,22.1,130.2
+"Haon-Borehole-drill-water","Jun18","t3","Haon-Borehole-drill-water-Jun18","Haon-Borehole","Water","Haon-Borehole-water",21275,85,26,80.2
+"Haon-Borehole-drill-water","Oct18","t4","Haon-Borehole-drill-water-Oct18","Haon-Borehole","Water","Haon-Borehole-water",4736,84.4,26,41.9
+"Haon-Borehole-drill-water","Jan19","t5","Haon-Borehole-drill-water-Jan19","Haon-Borehole","Water","Haon-Borehole-water",62695,183.4,25,75.1
+"Barbutim-water","Sep17","t1","Barbutim-water-Sep17","Tabgha","Water","Tabgha-water",3460,21.3,26,19.7
+"Barbutim-water","Jan18","t2","Barbutim-water-Jan18","Tabgha","Water","Tabgha-water",10577,20.7,24,19.5
+"Barbutim-water","Jun18","t3","Barbutim-water-Jun18","Tabgha","Water","Tabgha-water",3140,24.3,28.3,23.8
+"Barbutim-water","Oct18","t4","Barbutim-water-Oct18","Tabgha","Water","Tabgha-water",10382,25.1,27,12.4
+"Barbutim-water","Jan19","t5","Barbutim-water-Jan19","Tabgha","Water","Tabgha-water",33128,30.1,21.9,85.1
