@@ -1,4 +1,4 @@
-# LegionellaSodiumSprings
+# Bergman et al., 2023 - _Legionella_SodiumSprings 
 Notes supporting the publication: <br> 
 
 _Sodium levels and grazing pressure shape natural communities of the intracellular pathogen Legionella._
