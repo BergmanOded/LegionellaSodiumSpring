@@ -1,7 +1,7 @@
 # Bergman et al., 2023 - _Legionella_ Sodium Springs 
 Notes supporting the publication: <br> 
 
-_Sodium levels and grazing pressure shape natural communities of the intracellular pathogen Legionella._
+"_Sodium levels and grazing pressure shape natural communities of the intracellular pathogen Legionella._"
 
 # 16S rRNA gene amplicone based sequencing
 Raw metagenomic sequences reads generated in this study have been deposited in in the European Nucleotide Archive Database (https://www.ebi.ac.uk/ena/browser/home) as project accession number PRJEB53014.
