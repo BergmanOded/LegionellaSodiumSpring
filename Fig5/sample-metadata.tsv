@@ -1,0 +1,33 @@
+sampleID	BarcodeSequence	LinkerPrimerSequence	collection-date	year	month	sample-name-sequencing-centre	old_sample_name	sequencing-centre	sequancing-run	result	station	Spring_Cluster	environment	DEPTH	amplicon	primers	DNA-extraction	DNA-conc	Legionella-bacteria-ml	temperature	DO	Chl	pH	turbidity	alkalinity	ORP	Cl	conductivity	TN	TP	SO4	microcystis-biomass	pytoplankton-biomas	ciliates-biomass	bacil-chr-biomass	chloro-biomass	crypto-biomass	cyanoph-biomass	dino-biomass	Na
+#q2:types			categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric	numeric
+Tiberias_Head_09_2017_B			09-2017	2017	Sep	12B	12B-917	MrDNA	05-2018	work	Tiberias-Head	Tiberias Hot Springs	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	8.22		59			6.51	8.83				46600	9.44	24.6										360.59
+Maayan1_09_2017_B			09-2017	2017	Sep	9B	9B-917	MrDNA	05-2018	work	Maayan1	Tabgha	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	2.64		29			7.42	1.22				4460	2.22	17										27.97
+Ein7_09_2017_B			09-2017	2017	Sep	6B	6B-917	MrDNA	05-2018	work	Ein7	Tabgha	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	11		25			7.36	1.18				4480	2.81	19.8										18.53
+Fuliya4_09_2017_B			09-2017	2017	Sep	5B	5B-917	MrDNA	05-2018	work	Fuliya4	Fuliya	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	10.2		30			7.29	5.19				3420	3.75	24.7										19.62
+Tiberias_Head_01_2018_B			01-2018	2018	Jan	Oded084_12B_0118	12B-118	UIC	10-2020	work	Tiberias-Head	Tiberias Hot Springs	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	22.2		56			6.06	0.71				45900	3.62	8.7										274.94
+Tiberias_Pool_01_2018_B			01-2018	2018	Jan	Oded085_14B_0118	14B-118	UIC	10-2020	work	Tiberias-Pool	Tiberias Hot Springs	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	3.8		40			7.02	5.38				46800	3.85	16										284.72
+Gesher_Hana_01_2018_B			01-2018	2018	Jan	Oded086_11B_0118	11B-118	UIC	10-2020	work	Gesher-Hana	Tabgha	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	7.9		23			7.13	2.59				3500	3.34	13.4										20.7
+Maayan1_01_2018_B			01-2018	2018	Jan	Oded087_9B_0118	9B-118	UIC	10-2020	work	Maayan1	Tabgha	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	29.4		23			7.69	3.81				3310	3.69	20.6										21.27
+Ein7_01_2018_B			01-2018	2018	Jan	Oded088_6B_0118	6B-118	UIC	10-2020	work	Ein7	Tabgha	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	7.2		23			7.91	1.91				1795	6.19	54.2										20.85
+Fuliya4_01_2018_B			01-2018	2018	Jan	Oded089_5B_0118	5B-118	UIC	10-2020	work	Fuliya4	Fuliya	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	25.2		26			7.35	1.88				3490	4.06	11.6										19.58
+Tiberias_Pool_09_2018_B			09-2018	2018	Sep	Oded101_14B_0918	14B-918	UIC	10-2020	work	Tiberias-Pool	Tiberias Hot Springs	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	6.48		44			6.91	1.26				48400	8.35	16.3										296.29
+Gesher_Hana_09_2018_B			09-2018	2018	Sep	Oded102_11B_0918	11B-918	UIC	10-2020	work	Gesher-Hana	Tabgha	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	4.3		25			7.61	11.1				4530	4.64	41.5										24.85
+Maayan1_09_2018_B			09-2018	2018	Sep	Oded103_9B_0918	9B-918	UIC	10-2020	work	Maayan1	Tabgha	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	27.4		25			7.19	27.8				4670	4.3	26.9										25.45
+Ein7_09_2018_B			09-2018	2018	Sep	Oded104_6B_0918	6B-918	UIC	10-2020	work	Ein7	Tabgha	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	3.7		25			7.22	0.82				4500	4.44	16										24.61
+Fuliya4_09_2018_B			09-2018	2018	Sep	Oded105_5B_0918	5B-918	UIC	10-2020	work	Fuliya4	Fuliya	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	22.6		27			7.39	1.46				3210	6.76	151.7										18.05
+Tiberias_Head_01_2019_B			01-2019	2019	Jan	Oded116_12B_0119	12B-119	UIC	10-2020	work	Tiberias-Head	Tiberias Hot Springs	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	15.9		58			6.49	0.786				45700	33.73	7										277.38
+Tiberias_Pool_01_2019_B			01-2019	2019	Jan	Oded117_14B_0119	14B-119	UIC	10-2020	work	Tiberias-Pool	Tiberias Hot Springs	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	25.6		39			7.27	0.781				47500	36.22	8.7										295.46
+Gesher_Hana_01_2019_B			01-2019	2019	Jan	Oded119_11B_0119	11B-119	UIC	10-2020	work	Gesher-Hana	Tabgha	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	28		22			7.82	5.04				1780	6.28	43.2										7.35
+Maayan1_01_2019_B			01-2019	2019	Jan	Oded120_9B_0119	9B-119	UIC	10-2020	work	Maayan1	Tabgha	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	21.4		23.5			7.09	2.92				1927	6.18	33.4										8.17
+Ein7_01_2019_B			01-2019	2019	Jan	Oded121_6B_0119	6B-119	UIC	10-2020	work	Ein7	Tabgha	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	11.3		23			7.16	5.88				1775	6.34	45.5										7.31
+Fuliya4_01_2019_B			01-2019	2019	Jan	Oded122_5B_0119	5B-119	UIC	10-2020	work	Fuliya4	Fuliya	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	24.4		23			7.53	2.88				3650	4.34	93.5										21.1
+Tiberias_Head_06_2018_B			06-2018	2018	Jun	Oded124_12B_0618	12B-618	UIC	10-2020	work	Tiberias-Head	Tiberias Hot Springs	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	21.2		58			6.49	0.786				45700	33.73	7										277.38
+Tiberias_Pool_06_2018_B			06-2018	2018	Jun	Oded126_14B_0618	14B-618	UIC	10-2020	work	Tiberias-Pool	Tiberias Hot Springs	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	4.16		39			7.27	0.781				47500	36.22	8.7										295.46
+Tiberias_Pool_09_2017_B			09-2017	2017	Sep	14B-0917-Lgsp17F	14B-917	MrDNA	1-2021	work	Tiberias-Pool	Tiberias Hot Springs	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	3.48		46			6.97	1.32				47900	7.71	20.6										366.42
+Gesher_Hana_09_2017_B			09-2017	2017	Sep	11B-0917-Lgsp17F	11B-917	MrDNA	1-2021	work	Gesher-Hana	Tabgha	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	7.8		26			7.89	2.21				4430	2.4	18.3										27.23
+Nur_09_2017_B			09-2017	2017	Sep	10B-0917-Lgsp17F	10B-917	MrDNA	1-2021	work	Nur	Tabgha	Biofilm	0m	16S-V3V4-Legionella	Lgsp17F-Lgsp28R	Power-soil	1.16		26			7.29	0.54				6660	2.04	17.4										41.58
+Reference_Bacteria												Reference_Bacteria																												
+Fuliya												Fuliya																												
+Tiberias_Hot_Springs												Tiberias_Hot_Springs																												
+Tabgha												Tabgha																												
+Outgroup												Outgroup																												
